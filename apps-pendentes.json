@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Octane Revival",
+    "url": "https://drive.google.com/file/d/1lEW4XCibrI5i_fZ7IQWy-K9Kr4980n5c/view?usp=drive_link",
+    "aviso": "ALERTA: origem e segurança não verificadas; link do Drive não é download direto de IPA. Risco de phishing ou comprometimento de contas não confirmado."
+  },
+  {
+    "nome": "EnJoyTheVR",
+    "url": "https://github.com/Zhes-20/EnJoyTheVR/releases/download/PublicDemo-2.3.3/EnJoyTheVR-2.3.3-iOS.ipa",
+    "versao_divulgada": "2.3.3"
+  },
+  {
+    "nome": "XeniOS",
+    "url": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
+    "versao_divulgada": "2.0.1"
+  },
+  {
+    "nome": "MeloNX",
+    "url": "https://starforgejo.dev/projects/MeloNX/releases/download/2.7/MeloNX.ipa",
+    "versao_divulgada": "2.7"
+  },
+  {
+    "nome": "BCD",
+    "url": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.600/BCD.ipa",
+    "versao_divulgada": "0.1.600"
+  }
+]
